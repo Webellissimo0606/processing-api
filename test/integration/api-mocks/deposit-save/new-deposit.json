@@ -1,0 +1,8 @@
+{
+  "depositType": {
+    "id": 1
+  },
+  "amount": "200.00",
+  "description": "Deposit 1",
+  "active": 1
+}

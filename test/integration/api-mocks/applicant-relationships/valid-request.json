@@ -1,0 +1,33 @@
+{ "relationships" : [
+    {
+      "fptId": 1,
+      "tptId": 2,
+      "id": 18996,
+      "name": "Relate Works",
+      "type": {
+        "id": 2,
+        "name": "No Relationship"
+      }
+    },
+    {
+      "fptId": 1,
+      "tptId": 3,
+      "id": 19000,
+      "name": "Relate Trusted",
+      "type": {
+        "id": 10,
+        "name": "Beneficiary"
+      }
+    },
+    {
+      "fptId": 1,
+      "tptId": 1,
+      "id": 19001,
+      "name": "Relate Person",
+      "type": {
+        "id": 7,
+        "name": "Financial"
+      }
+    }
+  ]
+}

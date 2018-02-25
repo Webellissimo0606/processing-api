@@ -1,0 +1,38 @@
+[
+   {
+     "iD": 1,
+     "loanID": 18741,
+     "depositTypeID": 1,
+     "amount": "180.00",
+     "description": "Deposit 1",
+     "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "createdByPartyRoleID": 1,
+     "lastUpdated": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "lastUpdatedByPartyRoleID": 1,
+     "active": 1
+   },
+   {
+     "iD": 2,
+     "loanID": 18742,
+     "depositTypeID": 1,
+     "amount": "1700.00",
+     "description": "Deposit 1",
+     "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "createdByPartyRoleID": 1,
+     "lastUpdated": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "lastUpdatedByPartyRoleID": 1,
+     "active": 1
+   },
+   {
+     "iD": 3,
+     "loanID": 18743,
+     "depositTypeID": 1,
+     "amount": "100.00",
+     "description": "Deposit 1",
+     "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "createdByPartyRoleID": 1,
+     "lastUpdated": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+     "lastUpdatedByPartyRoleID": 1,
+     "active": 1
+   }
+]

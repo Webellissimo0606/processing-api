@@ -1,0 +1,15 @@
+{
+    "iD": 7008394,
+    "productCategoryID": 2,
+    "isStaffApplication" : false,
+    "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+    "createdByPartyRoleID": 1,
+    "ProductCategory": {
+        "iD": 2,
+        "name": "Product Category 2",
+        "productContainerID": 2,
+        "sortOrder": 2,
+        "active": true,
+        "alternateDisplayName": "Product Category 2 Alt"
+    }
+}

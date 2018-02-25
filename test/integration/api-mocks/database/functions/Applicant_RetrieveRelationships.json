@@ -1,0 +1,33 @@
+[
+
+	{
+
+		"ApplicationPartyRoleID": 19002,
+		"data":[]
+	},
+	{
+
+		"ApplicationPartyRoleID": 19001,
+		"data":
+		[
+		  {
+		    "RelatedApplicationPartyRoleID": 18996,
+		    "RelatedPartyName": "Relate Works",
+		    "RelationshipTypeID": 2,
+		    "RelationshipTypeName": "Director"
+		  },
+		  {
+		    "RelatedApplicationPartyRoleID": 18995,
+		    "RelatedPartyName": "Rawtestbl Lcacaracj",
+		    "RelationshipTypeID": 7,
+		    "RelationshipTypeName": "Financial"
+		  },
+		  {
+		    "RelatedApplicationPartyRoleID": 19000,
+		    "RelatedPartyName": "Relate Trusted",
+		    "RelationshipTypeID": 9,
+		    "RelationshipTypeName": "Trustee"
+		  }
+		]
+	}
+]

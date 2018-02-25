@@ -1,0 +1,51 @@
+[
+
+	{
+
+		"from": 111,
+		"to": 222,
+		"data":[]
+	},
+	{
+		"from": 1,
+		"to": 1,
+		"data":
+		[
+		  {
+		    "ID": 8,
+		    "Name": "No Relationship",
+		    "ConsideredSameHousehold": false
+		  },
+		  {
+		    "ID": 3,
+		    "Name": "Married",
+		    "ConsideredSameHousehold": true
+		  },
+		  {
+		    "ID": 1,
+		    "Name": "Defacto",
+		    "ConsideredSameHousehold": true
+		  },
+		  {
+		    "ID": 4,
+		    "Name": "Parent",
+		    "ConsideredSameHousehold": false
+		  },
+		  {
+		    "ID": 5,
+		    "Name": "Sibling",
+		    "ConsideredSameHousehold": false
+		  },
+		  {
+		    "ID": 6,
+		    "Name": "Son or Daughter",
+		    "ConsideredSameHousehold": false
+		  },
+		  {
+		    "ID": 7,
+		    "Name": "Financial",
+		    "ConsideredSameHousehold": true
+		  }
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[{ 
+	"iD": 1,
+    "name": "Product Category 1",
+    "productContainerID": 1,
+    "sortOrder": 1,
+    "active": true,
+    "alternateDisplayName": "Product Category 1 Alt"
+},
+{ 
+	"iD": 2,
+    "name": "Product Category 2",
+    "productContainerID": 2,
+    "sortOrder": 2,
+    "active": true,
+    "alternateDisplayName": "Product Category 2 Alt"
+}]
+
+

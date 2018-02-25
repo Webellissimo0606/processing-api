@@ -1,0 +1,20 @@
+[
+   {
+     "iD": 1,
+     "name": "Process Name 1",
+     "active": true,
+     "justiceID": 1
+   },
+   {
+     "iD": 2,
+     "name": "Process Name 2",
+     "active": true,
+     "justiceID": 1
+   },
+   {
+     "iD": 3,
+     "name": "Process Name 3",
+     "active": true,
+     "justiceID": 1
+   }
+ ]

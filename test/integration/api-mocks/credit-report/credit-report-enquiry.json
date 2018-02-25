@@ -1,0 +1,21 @@
+[
+  {
+    "creditReportId": 2550,
+    "data": [
+      {
+        "EnquiryID": "SDFA-C1035-000PA",
+        "ApplicantName": "2 Black Dogs Pty Ltd",
+        "ApplicationContainerID": 7007962,
+        "ApplicationPartyRoleID": 17368
+      }
+    ]
+  },
+  {
+    "creditReportId": 11111,
+    "data": null
+  },
+  {
+    "creditReportId": 22222,
+    "data": []
+  }
+]

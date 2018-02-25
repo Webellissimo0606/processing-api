@@ -1,0 +1,16 @@
+[
+	{
+	  "iD": 7008394,
+      "productCategoryID": 2,
+      "isStaffApplication" : false,
+      "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+	  "createdByPartyRoleID": 1
+	},
+	{
+	  "iD": 7008395,
+      "productCategoryID": 2,
+      "isStaffApplication" : false,
+      "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+	  "createdByPartyRoleID": 1
+	}
+]

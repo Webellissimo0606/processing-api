@@ -1,0 +1,10 @@
+[
+    {
+        "ApplicationPartyRoleID" : 11111,
+        "BureauReference" : "some reference"
+    },
+    {
+        "ApplicationPartyRoleID" : 2222,
+        "BureauReference" : null
+    }
+]

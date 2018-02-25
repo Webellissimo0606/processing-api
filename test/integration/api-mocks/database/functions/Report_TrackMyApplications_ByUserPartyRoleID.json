@@ -1,0 +1,44 @@
+[
+   {
+     "UserPartyRoleID": 934,
+     "data": [
+       {
+         "applicationID": 2,
+         "borrowerName": "Name 2",
+         "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+         "loanAmount": "100.00",
+         "externalLeadID": "ASFVUBASKJASHFABSVJASBASKJNDHBASJANKUQVIYUB",
+         "productCategoryID": 1,
+         "retailApplicationID": 1,
+         "applicationStatusTypeName": "Status 2"
+       },
+       {
+         "applicationID": 4,
+         "borrowerName": "Name 4",
+         "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+         "loanAmount": "100.00",
+         "externalLeadID": "ASFVUBASKJASHFABSVJASBASKJNDHBASJANKUQVIYUB",
+         "productCategoryID": 1,
+         "retailApplicationID": 1,
+         "applicationStatusTypeName": "Status 4"
+       }
+     ]
+   },
+ 	{
+
+ 		"UserPartyRoleID": 935,
+ 		"data":
+ 		[
+      {
+        "applicationID": 3,
+        "borrowerName": "Name 3",
+        "created": "Fri Feb 10 2017 02:08:24 GMT+0400 (+04)",
+        "loanAmount": "100.00",
+        "externalLeadID": "ASFVUBASKJASHFABSVJASBASKJNDHBASJANKUQVIYUB",
+        "productCategoryID": 1,
+        "retailApplicationID": 1,
+        "applicationStatusTypeName": "Status 3"
+      }
+ 		]
+ 	}
+ ]

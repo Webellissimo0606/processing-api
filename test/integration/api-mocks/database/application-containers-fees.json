@@ -1,0 +1,32 @@
+[
+	{
+		 "iD": 1,
+		 "applicationContainerID": 7008394,
+		 "feeTypeID": 1,
+		 "amount": "100.00",
+		 "frequencyTypeID": 1,
+		 "created": "Fri Feb 14 2017 02:08:24 GMT+0400 (+04)",
+		 "createdByPartyRoleID": 1,
+		 "lastUpdated": "Fri Feb 14 2017 02:08:24 GMT+0400 (+04)",
+		 "lastUpdatedByPartyRoleID": 1,
+		 "PartyRole": {
+			 "iD": 1,
+			 "crumbsPartyRoleID": 1
+		 }
+	},
+	{
+		 "iD": 2,
+		 "applicationContainerID": 7008395,
+		 "feeTypeID": 1,
+		 "amount": "300.00",
+		 "frequencyTypeID": 1,
+		 "created": "Fri Feb 14 2017 02:08:24 GMT+0400 (+04)",
+		 "createdByPartyRoleID": 1,
+		 "lastUpdated": "Fri Feb 14 2017 02:08:24 GMT+0400 (+04)",
+		 "lastUpdatedByPartyRoleID": 1,
+		 "PartyRole": {
+			 "iD": 1,
+			 "crumbsPartyRoleID": 1
+		 }
+	}
+]

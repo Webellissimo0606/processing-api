@@ -1,0 +1,86 @@
+[
+  {
+    "iD": 17199,
+    "applicationPartyRoleID": 19148,
+    "frequencyTypeID": 1,
+    "amount": "18000.00",
+    "sourceTypeID": 33,
+    "currencyTypeID": 1,
+    "justiceID": null,
+    "tontoID": null,
+    "created": "2017-01-27T11:59:07.691Z",
+    "createdByPartyRoleID": 1,
+    "lastUpdated": "2017-01-27T11:59:07.691Z",
+    "lastUpdatedByPartyRoleID": 1,
+    "active": true,
+    "EmploymentIncomeFks": [
+      {
+        "incomeID": 17199,
+        "employmentID": 8570
+      }
+    ]
+  },
+  {
+    "iD": 17200,
+    "applicationPartyRoleID": 19148,
+    "frequencyTypeID": 1,
+    "amount": "0.00",
+    "sourceTypeID": 6,
+    "currencyTypeID": 1,
+    "justiceID": null,
+    "tontoID": null,
+    "created": "2017-01-27T11:59:07.691Z",
+    "createdByPartyRoleID": 1,
+    "lastUpdated": "2017-01-27T11:59:07.691Z",
+    "lastUpdatedByPartyRoleID": 1,
+    "active": true,
+    "EmploymentIncomeFks": [
+      {
+        "incomeID": 17200,
+        "employmentID": 8570
+      }
+    ]
+  },
+  {
+    "iD": 17201,
+    "applicationPartyRoleID": 19148,
+    "frequencyTypeID": 1,
+    "amount": "0.00",
+    "sourceTypeID": 37,
+    "currencyTypeID": 1,
+    "justiceID": null,
+    "tontoID": null,
+    "created": "2017-01-27T11:59:07.691Z",
+    "createdByPartyRoleID": 1,
+    "lastUpdated": "2017-01-27T11:59:07.691Z",
+    "lastUpdatedByPartyRoleID": 1,
+    "active": true,
+    "EmploymentIncomeFks": [
+      {
+        "incomeID": 17201,
+        "employmentID": 8570
+      }
+    ]
+  },
+  {
+    "iD": 17202,
+    "applicationPartyRoleID": 19148,
+    "frequencyTypeID": 1,
+    "amount": "0.00",
+    "sourceTypeID": 15,
+    "currencyTypeID": 1,
+    "justiceID": null,
+    "tontoID": null,
+    "created": "2017-01-27T11:59:07.691Z",
+    "createdByPartyRoleID": 1,
+    "lastUpdated": "2017-01-27T11:59:07.691Z",
+    "lastUpdatedByPartyRoleID": 1,
+    "active": true,
+    "EmploymentIncomeFks": [
+      {
+        "incomeID": 17202,
+        "employmentID": 8570
+      }
+    ]
+  }
+]

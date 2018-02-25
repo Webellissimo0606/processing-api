@@ -1,0 +1,14 @@
+{
+
+  "logger": {
+    
+    "kinesis": {
+      "accessKeyId": "",
+      "secretAccessKey": "",
+      "region": "",
+      "streamName": ""
+    }
+
+  }
+
+}

@@ -1,0 +1,10 @@
+{
+      "fptId": 1,
+      "tptId": 2,
+      "id": 18996,
+      "name": "Relate Works",
+      "type": {
+        "id": 2,
+        "name": "No Relationship"
+      }
+    }

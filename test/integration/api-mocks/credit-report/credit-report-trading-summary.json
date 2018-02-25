@@ -1,0 +1,74 @@
+[
+  {
+    "applicationPartyRoleId": 17368,
+    "data": [
+      [
+        {
+          "client-reference": 17368,
+          "request-type": "REPORT",
+          "bureau-reference": "743033648",
+          "subject-role": "joint",
+          "australian-company-number": "148133653",
+          "current-historic-flag": "current",
+          "enquiry-type": "credit-enquiry",
+          "account-type-code": "SR",
+          "account-type": "SEARCHREQUEST",
+          "enquiry-amount": "1000",
+          "enquiry-amount-currency-code": "AUD",
+          "credit-type": "COMMERCIAL",
+          "ppsr-required": "no"
+        }
+      ],
+      [
+        {
+          "privacy-consent": "no",
+          "title": null,
+          "first-given-name": "WILLIAM",
+          "other-given-name": "JOSEPH",
+          "family-name": "PRYCE",
+          "date-of-birth": "1981-05-13T00:00:00.000Z",
+          "gender": "male",
+          "drivers-licence-number": null,
+          "property": "4",
+          "unit-number": null,
+          "street-number": "21",
+          "street-name": "BOLTON",
+          "street-type": "ST",
+          "suburb": "NEWCASTLE",
+          "state": "NSW",
+          "post-code": "2300",
+          "country-code": "AUS",
+          "address-type": "residential-current"
+        },
+        {
+          "privacy-consent": "no",
+          "title": null,
+          "first-given-name": "WILLIAM",
+          "other-given-name": "JOSEPH",
+          "family-name": "PRYCE",
+          "date-of-birth": "1981-05-13T00:00:00.000Z",
+          "gender": "male",
+          "drivers-licence-number": null,
+          "property": null,
+          "unit-number": null,
+          "street-number": "43",
+          "street-name": "BRIDGES",
+          "street-type": "RD",
+          "suburb": "NEW LAMBTON",
+          "state": "NSW",
+          "post-code": "2305",
+          "country-code": "AUS",
+          "address-type": "residential-current"
+        }
+      ]
+    ]
+  },
+  {
+    "applicationPartyRoleId": 11111,
+    "data": null
+  },
+  {
+    "applicationPartyRoleId": 22222,
+    "data": []
+  }
+]

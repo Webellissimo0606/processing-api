@@ -1,0 +1,23 @@
+{
+  "logger": {},
+  "v8Db": {
+
+		"connectionString": "postgres://postgres:password@172.17.0.2:5432/v8",
+
+		"options": {
+		}
+
+	},
+	
+	"mongoDb": {
+	},
+	"const": {
+		
+	},
+
+	"defaults": {
+		"pageSize": 20
+	}
+}
+
+

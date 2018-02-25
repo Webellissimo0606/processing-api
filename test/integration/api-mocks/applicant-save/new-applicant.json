@@ -1,0 +1,9 @@
+{
+  "borrowerRoleType": {
+    "id": 1
+  },
+  "nominatedBorrower": false,
+  "partyType": {
+    "id": 1
+  }
+}

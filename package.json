@@ -1,0 +1,43 @@
+{
+  "name": "processing-api",
+  "version": "0.0.37",
+  "description": "Loans processing api for the v8 system",
+  "main": "index.js",
+  "scripts": {
+    "test": "LOG_MUTE=1 ./node_modules/.bin/istanbul test ./node_modules/.bin/_mocha -- --timeout 30000 -R spec",
+    "coverage": "LOG_MUTE=1 ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- -R spec",
+    "start": "node_modules/.bin/nodemon index.js",
+    "dbgen": "node_modules/.bin/pgen exec sequelize-template -d v8 -u postgres -p password -t dao/model --host 172.17.0.2 --port 5430"
+  },
+  "keywords": [
+    "api",
+    "common",
+    "library"
+  ],
+  "author": "Michael Tuttle <tuttlem@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.17.1",
+    "fm-common": "git+https://github.com/firstmac/fm-common.git",
+    "https": "^1.0.0",
+    "lodash": "^4.16.6",
+    "pg": "^6.1.0",
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "restify": "^4.3.0",
+    "restify-bunyan-logger": "^2.0.7",
+    "restify-errors": "^4.3.0",
+    "restify-jwt": "^0.4.0",
+    "sequelize": "^3.24.3"
+  },
+  "devDependencies": {
+   "chai": "^3.4.1",
+    "chai-things": "^0.2.0",
+    "hippie": "^0.5.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.8.0",
+    "sinon": "^1.17.7",
+    "sinon-chai": "^2.8.0"
+  }
+}

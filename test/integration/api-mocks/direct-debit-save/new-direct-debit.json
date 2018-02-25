@@ -1,0 +1,15 @@
+{
+   "loan": {
+     "id": 1
+   },
+   "frequencyType": {
+     "id": 1
+   },
+   "repaymentMethodTypeID": 1,
+   "amount": "2000.00",
+   "repaymentAmountType": {
+     "id": 1
+   },
+   "crumbsBankAccountID": 1,
+   "termsAndConditionsAcceptance": false
+ }

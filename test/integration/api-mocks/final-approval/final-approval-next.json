@@ -1,0 +1,22 @@
+[
+  {
+    "applicationContainerID": 728,
+    "userID": 1,
+    "finalApprovalProcessTypeID": 1
+  },
+  {
+    "applicationContainerID": 729,
+    "userID": 2,
+    "finalApprovalProcessTypeID": 2
+  },
+  {
+    "applicationContainerID": 730,
+    "userID": 3,
+    "finalApprovalProcessTypeID": 3
+  },
+  {
+    "applicationContainerID": 731,
+    "userID": 4,
+    "finalApprovalProcessTypeID": 4
+  }
+]

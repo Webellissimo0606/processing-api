@@ -1,0 +1,63 @@
+[
+  {
+    "applicationPartyRoleId": 19148,
+    "data": [
+      [
+        {
+          "client-reference": 19148,
+          "title": "Mr",
+          "first-given-name": "Rawtests",
+          "other-given-name": null,
+          "family-name": "Lcacarkopw",
+          "date-of-birth": "1965-01-27T00:00:00.000Z",
+          "gender-code": "U",
+          "drivers-licence-number": null,
+          "relationship-code": 2
+        }
+      ],
+      [
+        {
+          "employment-name": "Sparrow Works",
+          "employment-employer-type": "C"
+        },
+        {
+          "employment-name": "This is an update to the employment",
+          "employment-employer-type": "C"
+        },
+        {
+          "employment-name": "This is a test employment",
+          "employment-employer-type": "C"
+        }
+      ],
+      [
+        {
+          "property": null,
+          "unit-number": null,
+          "street-number": "27",
+          "street-name": "Luck",
+          "street-type": "AVE",
+          "suburb": "Wandal",
+          "state": "QLD",
+          "post-code": "4700",
+          "country-code": "AUS",
+          "address-type": "C"
+        }
+      ],
+      [
+        {
+          "enquiry-amount": "35400.0000",
+          "account-type-code": "AL",
+          "enquiry-amount-currency-code": "AUD"
+        }
+      ]
+    ]
+  },
+  {
+    "applicationPartyRoleId": 11111,
+    "data": null
+  },
+  {
+    "applicationPartyRoleId": 22222,
+    "data": []
+  }
+]

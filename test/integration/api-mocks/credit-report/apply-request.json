@@ -1,0 +1,51 @@
+[
+  {
+    "applicationPartyRoleId": 19148,
+    "data": {
+      "report": "<credit-report/>",
+      "requestFileId": "dssdfs3241r43324",
+      "responseFileId": "dssdfs3241r43324",
+      "requestedReportType": "SomeType"
+    }
+  },
+  {
+    "applicationPartyRoleId": 11111,
+    "data": {
+      "report": "",
+      "requestFileId": "",
+      "responseFileId": "",
+      "requestedReportType": ""
+    }
+  },
+  {
+    "applicationPartyRoleId": 22222,
+    "data": null
+  },
+  {
+    "applicationPartyRoleId": 33333,
+    "data": {
+      "report": "<credit-report/>",
+      "requestFileId": "dssdfs3241r43324",
+      "responseFileId": "dssdfs3241r43324",
+      "requestedReportType": "SomeType"
+    }
+  },
+  {
+    "applicationPartyRoleId": 44444,
+    "data": {
+      "report": "<credit-report/>",
+      "requestFileId": "dssdfs3241r43324",
+      "responseFileId": "dssdfs3241r43324",
+      "requestedReportType": "SomeType"
+    }
+  },
+  {
+    "applicationPartyRoleId": 55555,
+    "data": {
+      "report": "<credit-report/>",
+      "requestFileId": "dssdfs3241r43324",
+      "responseFileId": "dssdfs3241r43324",
+      "requestedReportType": "SomeType"
+    }
+  }
+]

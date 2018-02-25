@@ -1,0 +1,229 @@
+[
+  {
+    "applicationPartyRoleId": 17687,
+    "data": [
+  [
+    {
+      "CreditReportType": "Individual",
+      "BureauReference": null,
+      "EnquiryID": "140321-W65X3-258AS",
+      "PrimaryMatchType": null,
+      "DatetimeRequested": "2014-04-05T09:35:17.000Z",
+      "DatetimeGenerated": "2014-04-05T09:36:03.000Z",
+      "ClientReference": "ClientRef04",
+      "OperatorID": "7878898",
+      "OperatorName": "Jeff J Woods",
+      "ProductName": "VedaScore Apply",
+      "PermissionTypeCode": "XY",
+      "PermissionType": "CONSUMER+COMMERCIAL",
+      "ProductDataLevel": "Negative",
+      "ProductDataLevelCode": "N",
+      "ProductVersion": "2.0",
+      "FirstReportedDate": null,
+      "LastReportedDate": null,
+      "LastCreditEnquiryDate": null,
+      "PrimaryMatchIDIndex": null,
+      "FamilyName": null,
+      "GivenName": null,
+      "OtherName": null,
+      "GenderType": null,
+      "GenderCode": null,
+      "DateOfBirth": null,
+      "DateOfBirthLastReported": null,
+      "DriversLicenceNumber": null,
+      "ScorecardID": null,
+      "ScorecardName": null,
+      "ScorecardVersion": null,
+      "ScorecardType": null,
+      "ScorecardDataLevelCode": null,
+      "ScorecardDataLevel": null,
+      "RiskOdds": null,
+      "Score": "425",
+      "TraxRequestFileID": "5833cc817f4fd59f84d05e44",
+      "TraxResponseFileID": "5833cc817f4fd59f84d05e43",
+      "Created": "2016-11-22T14:41:37.737Z"
+    }
+  ],
+  [
+    {
+      "IDIndex": "2",
+      "LatestUpdateDate": "2013-08-15T00:00:00.000Z",
+      "AccountDataLevel": 2,
+      "AccountID": "asdas-DGSG54-41454-54",
+      "OriginalCreditProvider": "Titanium Bank",
+      "OriginalCreditProviderIsLicensee": "true",
+      "LatestCreditProvider": "Titanium Bank",
+      "LatestCreditProviderIsLicensee": "true",
+      "TransferDate": null,
+      "AccountTypeCode": "RM",
+      "AccountType": "Real Property Mortgage",
+      "RelationshipCode": "1",
+      "Relationship": "Principal's Account (sole)",
+      "AccountHolderCount": null,
+      "AccountOpenDate": null,
+      "AccountClosedDate": null,
+      "AccountReopenDate": null,
+      "LoanPaymentMethodCode": null,
+      "LoanPaymentMethod": null,
+      "TermTypeCode": null,
+      "TermType": null,
+      "SecuredCreditCode": null,
+      "SecuredCredit": null,
+      "TermOfLoan": null,
+      "OriginalMaximumAmountOfCredit": null,
+      "OriginalCurrencyCode": "AUD",
+      "LatestMaximumAmountOfCredit": null,
+      "LatestCurrencyCode": "AUD",
+      "DateLastChanged": null,
+      "IsUnlimitedCredit": null
+    }
+  ],
+  [
+    {
+      "IDIndex": "3",
+      "AddressType": "P",
+      "FirstReportedDate": "1995-03-21T00:00:00.000Z",
+      "LastReportedDate": "1999-12-08T00:00:00.000Z",
+      "StreetNumber": "12",
+      "StreetName": "Beaconsfield",
+      "StreetTypeCode": "RD",
+      "Suburb": "Wisemans Creek",
+      "State": "NSW",
+      "Postcode": "2795",
+      "CountryCode": "AUS"
+    }
+  ],
+  [
+    {
+      "IDIndex": "1",
+      "LatestStartDate": "2012-07-05T00:00:00.000Z",
+      "LatestCeasedDate": null,
+      "IsSeriousCreditInfringement": null,
+      "SCIDate": null,
+      "DefaultAssociationStartDate": "2013-05-06T00:00:00.000Z",
+      "DefaultAssociationCeaseDate": "2013-07-05T00:00:00.000Z"
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "IDIndex": "1",
+      "EnquiryDate": "2010-12-22T00:00:00.000Z",
+      "EnquiryType": "credit-application",
+      "AccountTypeCode": "CC",
+      "AccountType": "Credit Card",
+      "EnquiryAmount": "2500.0000",
+      "RelationshipCode": "1",
+      "Relationship": "Principal's Account (sole)",
+      "CoBorrower": null,
+      "CreditEnquirer": "Golden Card",
+      "ClientReference": "65545f4s84"
+    }
+  ],
+  [
+    {
+      "IDIndex": "2",
+      "StatusCode": "O",
+      "Status": "Outstanding",
+      "StatusDate": "2013-08-15T00:00:00.000Z",
+      "OriginalDefaultDateRecorded": "2013-08-15T00:00:00.000Z",
+      "OriginalDefaultAmount": "250.0000",
+      "OriginalDefaultReasonToReportCode": null,
+      "OriginalDefaultReasonToReport": null,
+      "CurrentDefaultDateRecorded": "2013-08-15T00:00:00.000Z",
+      "CurrentDefaultAmount": "250.0000",
+      "CurrentDefaultReasonToReportCode": null,
+      "CurrentDefaultReasonToReport": null
+    }
+  ],
+  [
+    {
+      "IDIndex": "1",
+      "DirectorshipType": "P",
+      "LastExtractDate": "2013-12-01T00:00:00.000Z",
+      "LastExtractTime": "14:20:00.0000000+10:00",
+      "LastUpdateDate": "2014-04-01T00:00:00.000Z",
+      "LastUpdateTime": "10:21:00.0000000+10:00",
+      "DateAppointed": "2011-06-29T00:00:00.000Z",
+      "DateCeased": "2013-07-18T00:00:00.000Z",
+      "DateLastKnownAsDirector": null,
+      "OrganisationBureauReference": "203584914",
+      "OrganisationName": "SIMPLE SAMPLES",
+      "OrganisationNameStartDate": "2013-08-16T00:00:00.000Z",
+      "OrganisationTypeCode": "P/L",
+      "OrganisationType": "Proprietary Limited",
+      "OrganisationStatusCode": "DRGD",
+      "OrganisationStatus": "Organisation deregistered",
+      "OrganisationNumber": "000456217",
+      "ABN": "11001317625"
+    }
+  ],
+  [],
+  [
+    {
+      "IDIndex": "1",
+      "FirstReportedDate": "2014-04-05T00:00:00.000Z",
+      "LastReportedDate": null,
+      "Employer": "CASCADE CURTAINS",
+      "Occupation": null
+    }
+  ],
+  [],
+  [
+    {
+      "IDIndex": null,
+      "BureauReference": null,
+      "FirstReportedDate": null,
+      "LastReportedDate": null,
+      "LastCreditEnquiryDate": null,
+      "FamilyName": null,
+      "GivenName": null,
+      "OtherGivenName": null,
+      "GenderCode": null,
+      "GenderType": null,
+      "DateOfBirth": null,
+      "DriversLicenceNumber": null
+    }
+  ],
+  [
+    {
+      "Message": "This is a sample file message with some information about the commercial section of the report",
+      "MessageCode": null
+    }
+  ],
+  [],
+  [],
+  [
+    {
+      "ID": "KCF-212",
+      "Name": "Default Information Recorded",
+      "Description": "The existence of default information on the consumer file can be a powerful indicator of risk",
+      "Impactor": "Greatly Increases Risk"
+    }
+  ],
+  [
+    {
+      "DataBlockType": "Standard",
+      "DataBlockName": "Genesis",
+      "CharacteristicID": "adada",
+      "KeyCharacteristic": false,
+      "VariableName": "saasda_sci_84m",
+      "Description": "Number of consumer asdas in the last 84 months",
+      "Value": "0",
+      "ValueUnitOfMeasure": null,
+      "DataLevelCode": "N",
+      "DataLevel": "Negative"
+    }
+  ]
+]
+  },
+  {
+    "applicationPartyRoleId": 11111,
+    "data": null
+  },
+  {
+    "applicationPartyRoleId": 22222,
+    "data": []
+  }
+]

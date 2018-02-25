@@ -1,0 +1,47 @@
+[
+
+	{
+
+		"ApplicationContainerID": 222222,
+		"data":[]
+	},
+	{
+
+		"ApplicationContainerID": 7008394,
+		"data":
+		[
+		  {
+		    "ApplicationPartyRole_KeySummary_JSON": {
+		      "product": {
+		        "category": {
+		          "id": 2,
+		          "name": "Motor Vehicle Loan"
+		        },
+		        "subCategory": {
+		          "id": null,
+		          "name": null
+		        }
+		      },
+		      "applicationPartyRoles": [
+		        {
+		          "id": 19148,
+		          "name": "Rawtests Lcacarkopw"
+		        },
+		        {
+		          "id": 19167,
+		          "name": null
+		        },
+		        {
+		          "id": 19168,
+		          "name": null
+		        },
+		        {
+		          "id": 19169,
+		          "name": null
+		        }
+		      ]
+		    }
+		  }
+		]
+	}
+]

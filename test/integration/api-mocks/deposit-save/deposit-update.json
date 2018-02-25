@@ -1,0 +1,10 @@
+{
+  "loan": {
+    "id": 1
+  },
+  "depositType": {
+    "id": 1
+  },
+  "amount": "120.00",
+  "active": 1
+}

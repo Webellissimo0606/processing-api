@@ -1,0 +1,32 @@
+[
+  {
+    "iD": 1,
+    "accessoryCategoryTypeID": {
+      "iD": 1,
+      "name": "Accessory Category Type 1",
+      "active": true
+    },
+    "productCategoryTypeID": 1,
+    "sortOrder": 1
+  },
+  {
+    "iD": 2,
+    "accessoryCategoryTypeID": {
+      "iD": 2,
+      "name": "Accessory Category Type 2",
+      "active": true
+    },
+    "productCategoryTypeID": 2,
+    "sortOrder": 2
+  },
+  {
+    "iD": 3,
+    "accessoryCategoryTypeID": {
+      "iD": 1,
+      "name": "Accessory Category Type 3",
+      "active": true
+    },
+    "productCategoryTypeID": 2,
+    "sortOrder": 2
+  }
+]
